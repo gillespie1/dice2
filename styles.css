@@ -1,0 +1,57 @@
+.container {
+  width: 70%;
+  margin: auto;
+  text-align: center;
+}
+
+.dice {
+  text-align: center;
+  display: inline-block;
+
+}
+
+.refreshButton{
+  margin-top: 30px;
+  text-align: center;
+  }
+
+button {
+  background-color: #024249;
+  font-family: Arial;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 1rem;
+}
+
+body {
+  background-color: #f79071;
+}
+
+h1 {
+  margin: 30px;
+  font-family: 'Oswald', sans-serif;
+  font-size: 8rem;
+  color: #024249;
+}
+
+p {
+  font-size: 2rem;
+  color: #024249;
+  font-family: 'Roboto', sans-serif;
+}
+
+img {
+  width: 80%;
+}
+
+footer {
+  margin-top: 5%;
+  color: #EEEEEE;
+  text-align: center;
+  font-family: Arial;
+
+}
